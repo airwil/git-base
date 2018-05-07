@@ -4,7 +4,7 @@
 $ git config --global user.name "xxx"  
 $ git config --global user.email xxx@xxx.com
 
-二、生成SSH密钥过程：
+二、生成SSH密钥过程：   
 1.查看是否已经有了ssh密钥：cd ~/.ssh
 如果没有密钥则不会有此文件夹，有则备份删除  
 2.生存密钥：  
