@@ -1,4 +1,4 @@
-# git连接github教程
+# git本地项目连接github教程
 
 一、设置Git的user name和email：
 $ git config --global user.name "xxx"
